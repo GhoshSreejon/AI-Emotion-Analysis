@@ -1,0 +1,6 @@
+streamlit==1.32.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+deepface==0.0.89
+mediapipe==0.10.9
+google-generativeai==0.3.2
