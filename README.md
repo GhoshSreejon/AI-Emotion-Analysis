@@ -1,4 +1,4 @@
-# Emotion & Behavior Analyzer
+# AI-Based Emotion & Behavior Analyzer
 
 ## Overview
 
